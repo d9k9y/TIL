@@ -6,10 +6,10 @@ Java / Python
 Collections Docs [https://docs.oracle.com/javase/8/docs/api/java/util/Collections.html]
 
 Java forEach / replaceAll
-Collections.max()
-Collections.min()
-Collections.reverse()
-Collections.swap()
+* Collections.max()
+* Collections.min()
+* Collections.reverse()
+* Collections.swap()
 
 TODO
 
